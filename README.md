@@ -46,9 +46,30 @@ https://docs.google.com/spreadsheets/d/1pr6Jj2wNiM2Fy9qMTXgbCBihdkyLsLs35BX2MHce
 ###  Conector USB-C
 - Folosit pentru incarcare si posibila conectare seriala cu PC pentru debug.
 
+##  4. Conexiuni ESP32-C6
+
+| Componenta            | Pin ESP32-C6      | Interfata | Motiv utilizare                      |
+|----------------------|-------------------|-----------|--------------------------------------|
+| E-paper Display       | IO06, IO07, IO08  | SPI       | Transfer rapid de date catre display |
+| Flash NOR             | IO10, IO11, IO12  | SPI       | Stocare externa rapida               |
+| Senzor BME688         | IO18 (SDA), IO19 (SCL) | I2C   | Comunicare cu senzori               |
+| RTC DS3231SN          | IO18, IO19        | I2C       | Reutilizeaza magistrala I2C         |
+| MAX17048 (Baterie)    | IO18, IO19        | I2C       | Monitor baterie, I2C comun           |
+| SD Card               | IO01, IO02, IO03  | SPI       | Citire fisiere eBook                 |
+| Buton reset/boot      | IO00, EN          | GPIO      | Control boot si reset manual        |
+
 ---
 
+
 ##  5. Alte detalii relevante
+
+La realizarea PCB-ului am intampinat si doua erori de Copper Width, desi aveam  dimensiunile corespunzatoare, asa ca le-am aprobat.
+![image](https://github.com/user-attachments/assets/ab8d10f1-d4ad-4f12-891e-48c0aa6ba1ee)
+<br>
+si doua erori din cauza dimensiunii gaurilor din mufa USB, pe care de asemenea le am aprobat
+![image](https://github.com/user-attachments/assets/e986b8fc-3912-48eb-a5c1-30f2c936a163)
+
+
 
 
 ---
