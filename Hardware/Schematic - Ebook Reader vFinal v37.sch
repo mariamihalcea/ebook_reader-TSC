@@ -2703,7 +2703,7 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 </class>
 </classes>
 <parts>
-<part name="FRAME1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="ESP32_WROVER_FRAMES_A3L-LOC" device=""/>
+<part name="FRAME1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="ESP32_WROVER_FRAMES_A3L-LOC" device="" value="1"/>
 <part uuid="2882400023" name="J4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="112A-TAAR-R03_ATTEND" device="" package3d_urn="urn:adsk.eagle:package:47660090/1"/>
 <part name="GND10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="GND" device=""/>
 <part name="GND11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="GND" device=""/>
@@ -2804,23 +2804,23 @@ Source: &lt;a href="https://www.torexsemi.com/file/xc6220/XC6220.pdf"&gt; Datash
 <part name="SUPPLY13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="GND40" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="GND" device=""/>
 <part uuid="2882400014" name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="CPH3225A" device="" package3d_urn="urn:adsk.eagle:package:47660096/1"/>
-<part name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="TX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="RX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="VBAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="GND" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
 <part name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
-<part name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="MISO" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="MOSI" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="SCK1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EPD_BUSY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EPD_CS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EPD_DC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EPD_RST" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EPD_3V3_C" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="VBUS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="INT_RTC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
+<part name="EDP_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="TP" device="TP20R" package3d_urn="urn:adsk.eagle:package:47660084/2"/>
 <part name="SUPPLY14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part uuid="2882400001" name="J3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="QWIIC_CONNECTOR" device="JS-1MM" package3d_urn="urn:adsk.eagle:package:41390393/1" value="QWIIC_RIGHT_ANGLE"/>
 <part name="GND41" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.J-WA8tfMQRevjjjMiSIdvg" deviceset="GND" device=""/>
@@ -3153,9 +3153,9 @@ Stemma QT
 <attribute name="NAME" x="334.899" y="331.724" size="1.27" layer="95" rot="R180"/>
 <attribute name="VALUE" x="345.059" y="329.184" size="1.27" layer="96" rot="R180"/>
 </instance>
-<instance part="EPD_C8" gate="G$1" x="353.06" y="332.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="352.679" y="334.264" size="1.27" layer="95" rot="R180"/>
-<attribute name="VALUE" x="362.839" y="331.724" size="1.27" layer="96" rot="R180"/>
+<instance part="EPD_C8" gate="G$1" x="350.52" y="332.74" smashed="yes" rot="R90">
+<attribute name="NAME" x="350.139" y="334.264" size="1.27" layer="95" rot="R180"/>
+<attribute name="VALUE" x="360.299" y="331.724" size="1.27" layer="96" rot="R180"/>
 </instance>
 <instance part="EPD_C9" gate="G$1" x="335.28" y="335.28" smashed="yes" rot="R90">
 <attribute name="NAME" x="334.899" y="336.804" size="1.27" layer="95" rot="R180"/>
@@ -3342,19 +3342,19 @@ Stemma QT
 <attribute name="NAME" x="425.45" y="246.38" size="1.27" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="424.18" y="243.84" size="1.27" layer="96" rot="MR270"/>
 </instance>
-<instance part="TP1" gate="G$1" x="464.82" y="259.08" smashed="yes" rot="R180">
+<instance part="TX" gate="G$1" x="464.82" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="466.09" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="463.55" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP2" gate="G$1" x="469.9" y="259.08" smashed="yes" rot="R180">
+<instance part="RX" gate="G$1" x="469.9" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="471.17" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="468.63" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP3" gate="G$1" x="474.98" y="259.08" smashed="yes" rot="R180">
+<instance part="VBAT" gate="G$1" x="474.98" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="476.25" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="473.71" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP4" gate="G$1" x="480.06" y="259.08" smashed="yes" rot="R180">
+<instance part="GND" gate="G$1" x="480.06" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="481.33" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="478.79" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
@@ -3362,51 +3362,51 @@ Stemma QT
 <attribute name="NAME" x="486.41" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="483.87" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP6" gate="G$1" x="464.82" y="241.3" smashed="yes" rot="R180">
+<instance part="MISO" gate="G$1" x="464.82" y="241.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="466.09" y="240.03" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="463.55" y="242.57" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP7" gate="G$1" x="472.44" y="241.3" smashed="yes" rot="R180">
+<instance part="MOSI" gate="G$1" x="472.44" y="241.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="473.71" y="240.03" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="471.17" y="242.57" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP8" gate="G$1" x="477.52" y="241.3" smashed="yes" rot="R180">
+<instance part="SCK1" gate="G$1" x="477.52" y="241.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="478.79" y="240.03" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="476.25" y="242.57" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP9" gate="G$1" x="485.14" y="238.76" smashed="yes" rot="R180">
+<instance part="EPD_BUSY" gate="G$1" x="485.14" y="238.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="486.41" y="237.49" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="483.87" y="240.03" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP10" gate="G$1" x="490.22" y="241.3" smashed="yes" rot="R180">
+<instance part="EPD_CS" gate="G$1" x="490.22" y="241.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="491.49" y="240.03" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="488.95" y="242.57" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP11" gate="G$1" x="464.82" y="220.98" smashed="yes" rot="R180">
+<instance part="EPD_DC" gate="G$1" x="464.82" y="220.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="466.09" y="219.71" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="463.55" y="222.25" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP12" gate="G$1" x="472.44" y="220.98" smashed="yes" rot="R180">
+<instance part="EPD_RST" gate="G$1" x="472.44" y="220.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="473.71" y="219.71" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="471.17" y="222.25" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP13" gate="G$1" x="477.52" y="220.98" smashed="yes" rot="R180">
+<instance part="EPD_3V3_C" gate="G$1" x="477.52" y="220.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="478.79" y="219.71" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="476.25" y="222.25" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP14" gate="G$1" x="482.6" y="220.98" smashed="yes" rot="R180">
+<instance part="VBUS" gate="G$1" x="482.6" y="220.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="483.87" y="219.71" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="481.33" y="222.25" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP15" gate="G$1" x="490.22" y="220.98" smashed="yes" rot="R180">
+<instance part="INT_RTC" gate="G$1" x="490.22" y="220.98" smashed="yes" rot="R180">
 <attribute name="NAME" x="491.49" y="219.71" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="488.95" y="222.25" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP16" gate="G$1" x="490.22" y="259.08" smashed="yes" rot="R180">
+<instance part="3V3" gate="G$1" x="490.22" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="491.49" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="488.95" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
-<instance part="TP17" gate="G$1" x="495.3" y="259.08" smashed="yes" rot="R180">
+<instance part="EDP_3V3" gate="G$1" x="495.3" y="259.08" smashed="yes" rot="R180">
 <attribute name="NAME" x="496.57" y="257.81" size="1.27" layer="95" rot="R180"/>
 <attribute name="TP_SIGNAL_NAME" x="494.03" y="260.35" size="1.778" layer="97" rot="R180"/>
 </instance>
@@ -3734,22 +3734,17 @@ Stemma QT
 <wire x1="327.66" y1="320.04" x2="325.12" y2="320.04" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="320.04" x2="325.12" y2="327.66" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="327.66" x2="325.12" y2="330.2" width="0.1524" layer="91"/>
-<wire x1="325.12" y1="330.2" x2="325.12" y2="335.28" width="0.1524" layer="91"/>
+<wire x1="325.12" y1="330.2" x2="325.12" y2="332.74" width="0.1524" layer="91"/>
+<wire x1="325.12" y1="332.74" x2="325.12" y2="335.28" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="335.28" x2="325.12" y2="337.82" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="337.82" x2="325.12" y2="340.36" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="340.36" x2="325.12" y2="342.9" width="0.1524" layer="91"/>
 <wire x1="325.12" y1="342.9" x2="325.12" y2="345.44" width="0.1524" layer="91"/>
-<junction x="325.12" y="342.9"/>
 <wire x1="350.52" y1="327.66" x2="325.12" y2="327.66" width="0.1524" layer="91"/>
-<junction x="325.12" y="327.66"/>
 <wire x1="355.6" y1="337.82" x2="325.12" y2="337.82" width="0.1524" layer="91"/>
-<junction x="325.12" y="337.82"/>
 <wire x1="340.36" y1="340.36" x2="325.12" y2="340.36" width="0.1524" layer="91"/>
-<junction x="325.12" y="340.36"/>
 <wire x1="332.74" y1="335.28" x2="325.12" y2="335.28" width="0.1524" layer="91"/>
-<junction x="325.12" y="335.28"/>
 <wire x1="332.74" y1="330.2" x2="325.12" y2="330.2" width="0.1524" layer="91"/>
-<junction x="325.12" y="330.2"/>
 <pinref part="GND29" gate="1" pin="GND"/>
 <pinref part="EPD_C12" gate="G$1" pin="1"/>
 <pinref part="EPD_C11" gate="G$1" pin="1"/>
@@ -3758,6 +3753,15 @@ Stemma QT
 <pinref part="EPD_C7" gate="G$1" pin="1"/>
 <pinref part="EPD_C9" gate="G$1" pin="1"/>
 <pinref part="EPD_C10" gate="G$1" pin="1"/>
+<wire x1="325.12" y1="332.74" x2="347.98" y2="332.74" width="0.1524" layer="91"/>
+<pinref part="EPD_C8" gate="G$1" pin="1"/>
+<junction x="325.12" y="327.66"/>
+<junction x="325.12" y="330.2"/>
+<junction x="325.12" y="332.74"/>
+<junction x="325.12" y="335.28"/>
+<junction x="325.12" y="337.82"/>
+<junction x="325.12" y="340.36"/>
+<junction x="325.12" y="342.9"/>
 </segment>
 <segment>
 <wire x1="459.74" y1="325.12" x2="457.2" y2="325.12" width="0.1524" layer="91"/>
@@ -3851,7 +3855,7 @@ Stemma QT
 <segment>
 <wire x1="480.06" y1="261.62" x2="480.06" y2="264.16" width="0.1524" layer="91"/>
 <label x="480.06" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP4" gate="G$1" pin="TP"/>
+<pinref part="GND" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="485.14" y1="261.62" x2="485.14" y2="264.16" width="0.1524" layer="91"/>
@@ -4006,7 +4010,7 @@ Stemma QT
 <segment>
 <wire x1="482.6" y1="223.52" x2="482.6" y2="226.06" width="0.1524" layer="91"/>
 <label x="482.6" y="226.06" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP14" gate="G$1" pin="TP"/>
+<pinref part="VBUS" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="322.58" y1="449.58" x2="320.04" y2="449.58" width="0.1524" layer="91"/>
@@ -4146,7 +4150,7 @@ Stemma QT
 <segment>
 <wire x1="490.22" y1="261.62" x2="490.22" y2="264.16" width="0.1524" layer="91"/>
 <label x="490.22" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP16" gate="G$1" pin="TP"/>
+<pinref part="3V3" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="518.16" y1="248.92" x2="502.92" y2="248.92" width="0.1524" layer="91"/>
@@ -4231,7 +4235,7 @@ Stemma QT
 <segment>
 <wire x1="474.98" y1="261.62" x2="474.98" y2="264.16" width="0.1524" layer="91"/>
 <label x="474.98" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP3" gate="G$1" pin="TP"/>
+<pinref part="VBAT" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="495.3" y1="452.12" x2="495.3" y2="454.66" width="0.1524" layer="91"/>
@@ -4279,7 +4283,7 @@ Stemma QT
 <segment>
 <wire x1="472.44" y1="243.84" x2="472.44" y2="246.38" width="0.1524" layer="91"/>
 <label x="472.44" y="246.38" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP7" gate="G$1" pin="TP"/>
+<pinref part="MOSI" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="561.34" y1="238.76" x2="561.34" y2="241.3" width="0.1524" layer="91"/>
@@ -4315,7 +4319,7 @@ Stemma QT
 <segment>
 <wire x1="477.52" y1="243.84" x2="477.52" y2="246.38" width="0.1524" layer="91"/>
 <label x="477.52" y="246.38" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP8" gate="G$1" pin="TP"/>
+<pinref part="SCK1" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="568.96" y1="238.76" x2="568.96" y2="241.3" width="0.1524" layer="91"/>
@@ -4346,7 +4350,7 @@ Stemma QT
 <segment>
 <wire x1="464.82" y1="243.84" x2="464.82" y2="246.38" width="0.1524" layer="91"/>
 <label x="464.82" y="246.38" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP6" gate="G$1" pin="TP"/>
+<pinref part="MISO" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="553.72" y1="238.76" x2="553.72" y2="241.3" width="0.1524" layer="91"/>
@@ -4417,7 +4421,7 @@ Stemma QT
 <segment>
 <wire x1="490.22" y1="223.52" x2="490.22" y2="226.06" width="0.1524" layer="91"/>
 <label x="490.22" y="226.06" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP15" gate="G$1" pin="TP"/>
+<pinref part="INT_RTC" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="32KHZ" class="0">
@@ -4451,7 +4455,7 @@ Stemma QT
 <segment>
 <wire x1="485.14" y1="241.3" x2="485.14" y2="243.84" width="0.1524" layer="91"/>
 <label x="485.14" y="243.84" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP9" gate="G$1" pin="TP"/>
+<pinref part="EPD_BUSY" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="EPD_DC" class="0">
@@ -4468,7 +4472,7 @@ Stemma QT
 <segment>
 <wire x1="464.82" y1="223.52" x2="464.82" y2="226.06" width="0.1524" layer="91"/>
 <label x="464.82" y="226.06" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP11" gate="G$1" pin="TP"/>
+<pinref part="EPD_DC" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="IO/BOOT" class="0">
@@ -4507,7 +4511,7 @@ Stemma QT
 <segment>
 <wire x1="490.22" y1="243.84" x2="490.22" y2="246.38" width="0.1524" layer="91"/>
 <label x="490.22" y="246.38" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP10" gate="G$1" pin="TP"/>
+<pinref part="EPD_CS" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="584.2" y1="238.76" x2="584.2" y2="241.3" width="0.1524" layer="91"/>
@@ -4571,7 +4575,7 @@ Stemma QT
 <segment>
 <wire x1="464.82" y1="261.62" x2="464.82" y2="264.16" width="0.1524" layer="91"/>
 <label x="464.82" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP1" gate="G$1" pin="TP"/>
+<pinref part="TX" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RX" class="0">
@@ -4583,7 +4587,7 @@ Stemma QT
 <segment>
 <wire x1="469.9" y1="261.62" x2="469.9" y2="264.16" width="0.1524" layer="91"/>
 <label x="469.9" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP2" gate="G$1" pin="TP"/>
+<pinref part="RX" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RTC_RST" class="0">
@@ -4651,7 +4655,7 @@ Stemma QT
 <segment>
 <wire x1="477.52" y1="223.52" x2="477.52" y2="226.06" width="0.1524" layer="91"/>
 <label x="477.52" y="226.06" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP13" gate="G$1" pin="TP"/>
+<pinref part="EPD_3V3_C" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -4732,7 +4736,7 @@ Stemma QT
 <segment>
 <wire x1="472.44" y1="223.52" x2="472.44" y2="226.06" width="0.1524" layer="91"/>
 <label x="472.44" y="226.06" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP12" gate="G$1" pin="TP"/>
+<pinref part="EPD_RST" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="RESE'" class="0">
@@ -4820,13 +4824,13 @@ Stemma QT
 <pinref part="D5" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<wire x1="365.76" y1="335.28" x2="347.98" y2="335.28" width="0.1524" layer="91"/>
-<wire x1="347.98" y1="335.28" x2="340.36" y2="335.28" width="0.1524" layer="91"/>
-<wire x1="347.98" y1="335.28" x2="347.98" y2="345.44" width="0.1524" layer="91"/>
-<label x="347.98" y="345.44" size="1.27" layer="95" rot="R90" xref="yes"/>
-<junction x="347.98" y="335.28"/>
+<wire x1="365.76" y1="335.28" x2="350.52" y2="335.28" width="0.1524" layer="91"/>
+<wire x1="350.52" y1="335.28" x2="340.36" y2="335.28" width="0.1524" layer="91"/>
+<wire x1="350.52" y1="335.28" x2="350.52" y2="345.44" width="0.1524" layer="91"/>
+<label x="350.52" y="345.44" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="J1" gate="G$1" pin="21"/>
 <pinref part="EPD_C9" gate="G$1" pin="2"/>
+<junction x="350.52" y="335.28"/>
 </segment>
 </net>
 <net name="GDR" class="0">
@@ -4915,7 +4919,7 @@ Stemma QT
 <segment>
 <wire x1="495.3" y1="261.62" x2="495.3" y2="264.16" width="0.1524" layer="91"/>
 <label x="495.3" y="264.16" size="1.27" layer="95" rot="R90" xref="yes"/>
-<pinref part="TP17" gate="G$1" pin="TP"/>
+<pinref part="EDP_3V3" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -4934,7 +4938,7 @@ Stemma QT
 </net>
 <net name="N$22" class="0">
 <segment>
-<wire x1="365.76" y1="332.74" x2="358.14" y2="332.74" width="0.1524" layer="91"/>
+<wire x1="365.76" y1="332.74" x2="355.6" y2="332.74" width="0.1524" layer="91"/>
 <pinref part="J1" gate="G$1" pin="20"/>
 <pinref part="EPD_C8" gate="G$1" pin="2"/>
 </segment>
@@ -5101,6 +5105,23 @@ Stemma QT
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,678.18,327.66,U4,CTG,GND,,,"/>
+<approved hash="104,1,678.18,325.12,U4,CELL,VBAT,,,"/>
+<approved hash="104,1,678.18,322.58,U4,VDD,VBAT,,,"/>
+<approved hash="104,1,678.18,320.04,U4,EP,GND,,,"/>
+<approved hash="104,1,520.7,388.62,MCP73831,VIN,VBUS,,,"/>
+<approved hash="104,1,541.02,383.54,MCP73831,VSS,GND,,,"/>
+<approved hash="104,1,490.22,337.82,SENSOR2,VDD,N$12,,,"/>
+<approved hash="104,1,490.22,340.36,SENSOR2,VDDIO,I2C_PW,,,"/>
+<approved hash="104,1,355.6,251.46,U3,VBAT,VRTC,,,"/>
+<approved hash="104,1,355.6,254,U3,VCC,3V3,,,"/>
+<approved hash="104,1,518.16,251.46,J3,1,GND,,,"/>
+<approved hash="104,1,518.16,248.92,J3,2,3V3,,,"/>
+<approved hash="104,1,678.18,264.16,U1,VCC,3V3,,,"/>
+<approved hash="113,1,332.74,384.785,SJ1,,,,,"/>
+<approved hash="113,1,505.729,374.65,CHG_LED,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
