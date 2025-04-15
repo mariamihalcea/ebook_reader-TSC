@@ -86,8 +86,26 @@
 
 ---
 
+## 5. Pasi de implementare
 
-##  5. Alte detalii relevante
+### 1. Analiza documentatiei initiale
+Am analizat schematicul si layout-ul placii furnizate de profesor. Pe baza acestora, am recreat designul electronic in Fusion Electronics, atat schema electrica, cat si placa PCB.
+
+### 2. Plasarea componentelor pe PCB
+Am asezat componentele pe placa, urmarind o pozitionare si orientare optime, pentru a permite o rutare eficienta si functionala.
+
+### 3. Rutarea traseelor
+Traseele de alimentare au fost rutate manual pentru a asigura robustete si dimensiuni corecte. Conexiunile ramase au fost rutate automat, folosind functia de autorouting pe ambele straturi (top si bottom). Am adaugat polygon pour pentru a crea plane de masa pe ambele straturi.
+
+### 4. Optimizarea layout-ului
+Am folosit vias pentru a conecta planele de masa intre straturi si pentru a completa zonele neconectate. Am aplicat via stitching pentru a imbunatati integritatea electrica a designului.
+
+### 5. Generarea modelului 3D al placii
+Pe baza designului 2D, am generat modelul 3D al placii. Am cautat si importat manual fiecare componenta 3D, pozitionandu-le conform plasamentului din PCB-ul 2D. Pentru componenta *test pad*, neavand un model disponibil online, am creat manual unul pentru a reprezenta corect placa in ansamblu.
+
+### 6. Integrarea in ansamblul final – OpenBook Enclosure
+Am importat modelul 3D al placii in fisierul principal al carcasei (OpenBook Enclosure). Acolo am plasat toate componentele in carcasa finala pentru a asigura o potrivire corecta si functionala. Display-ul si bateria au fost desenate manual pentru a fi integrate in ansamblu si pentru a oferi o reprezentare cat mai realista a produsului final.
+##  6. Alte detalii relevante
 
 La realizarea PCB-ului am intampinat si doua erori de Copper Width, desi aveam  dimensiunile corespunzatoare, asa ca le-am aprobat.
 ![image](https://github.com/user-attachments/assets/ab8d10f1-d4ad-4f12-891e-48c0aa6ba1ee)
